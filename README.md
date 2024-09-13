@@ -1,5 +1,8 @@
-# robotic-arm
+# Robotic DIY Arm
 
+
+
+![gluten_robotx](https://github.com/user-attachments/assets/44cf193d-0cf5-4e83-a3d1-10393fcc6e99)
 
 
 
