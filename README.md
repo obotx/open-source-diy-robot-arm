@@ -1,5 +1,12 @@
 # robotic-arm
 
+
+
+
+https://github.com/user-attachments/assets/2f49d315-660f-48cd-ade0-0f4f29a78f13
+
+
+
 ![general1](https://github.com/user-attachments/assets/cc1e5471-2825-4508-86c4-56369f36ad6a)
 
 ![general2](https://github.com/user-attachments/assets/599333fb-4371-463f-917e-a4d1dce9832b)
