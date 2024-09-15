@@ -1,13 +1,10 @@
 # Open Source Robotic DIY Arm
 
 
-
-https://github.com/user-attachments/assets/cf157728-c740-44d5-b885-92ad2420a382
-
-
-
 ![gluten_robotx](https://github.com/user-attachments/assets/44cf193d-0cf5-4e83-a3d1-10393fcc6e99)
 
+
+https://github.com/user-attachments/assets/cf157728-c740-44d5-b885-92ad2420a382
 
 
 https://github.com/user-attachments/assets/462f662d-212a-4923-93f4-14a602944cad
