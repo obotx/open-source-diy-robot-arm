@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=gj9ZuymIP78
 
 # Part list example
 
+https://any-skin.github.io/
+
 https://hetpro-store.com/bracket-para-montaje-de-actuador-lineal-ld/?gad_source=4&gclid=CjwKCAjwooq3BhB3EiwAYqYoEnUKPbVg3u8RdyWW7541xkG2sxs8Ks-9--2bltRYiWEOin3fBsQfGBoCQNYQAvD_BwE
 
 
